@@ -1,16 +1,37 @@
-## Hi there 👋
+# Javan Meshack | Geospatial Data Scientist & Engineer  
 
-<!--
-**javanmesh/javanmesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me  
+Geomatics Engineer with a specialization in GIS, Data Science, Remote Sensing, and Advanced Spatial Analysis. Passionate about leveraging geospatial technologies to extract meaningful insights, optimize decision-making, and solve real-world problems. With strong analytical skills and a results-driven approach, I transform complex data into actionable intelligence.
 
-Here are some ideas to get you started:
+## 🌍 Professional Highlights  
+- 🎓 **Education:** Bachelor of Science in Geomatics Engineering and Geospatial Information Science  
+- 💻 **Certifications:** Data Science, Software Development, and GIS Applications  
+- 📊 **Expertise:** GIS, Remote Sensing, Spatial Analysis, Machine Learning, and Data Visualization  
+- ✍️ **Freelance Experience:** GIS Specialist & Technical Writer with 500+ successfully completed projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![QGIS](https://img.shields.io/badge/-QGIS-333?style=flat&logo=qgis)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-333?style=flat&logo=arcgis)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)  
+
+## 🚀 Key Projects  
+- **[Healthcare Coverage Optimization](link-to-repo)** – GIS-driven analysis to improve specialized healthcare service accessibility  
+- **[AI Resume Generator](link-to-repo)** – A Flask-based web application for automated resume optimization  
+- **[Healthcare Facility Location Optimization](link-to-repo)** – Machine learning integration with GIS for strategic facility placement  
+
+## 📝 Blog & Articles  
+- **[5 Ways GIS and Data Science Can Help Grow Your Business](link-to-blog)**  
+- **[GIS and Remote Sensing for Environmental Sustainability](link-to-blog)**  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javan-meshack)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square)](https://javanmeshackportfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:javanmeshac@gmail.com)  
+
+---  
+🚀 Always open to collaborations, innovative projects, and knowledge-sharing opportunities! Let's connect and build solutions that make an impact.  
+
