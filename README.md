@@ -1,6 +1,14 @@
 # Javan Meshack | Geospatial Data Scientist & Engineer  
 
 ## 👋 About Me  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![QGIS](https://img.shields.io/badge/-QGIS-333?style=flat&logo=qgis)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-333?style=flat&logo=arcgis)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+
 Geomatics Engineer with a specialization in GIS, Data Science, Remote Sensing, and Advanced Spatial Analysis. Passionate about leveraging geospatial technologies to extract meaningful insights, optimize decision-making, and solve real-world problems. With strong analytical skills and a results-driven approach, I transform complex data into actionable intelligence.
 
 ## 🌍 Professional Highlights  
