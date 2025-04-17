@@ -1,4 +1,4 @@
-# Javan Meshack | Geospatial Data Scientist & Engineer  
+# Javan Meshack | Geospatial Data Scientist & Engineer | Full Stack Developer
 
 ## 👋 About Me  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
@@ -27,13 +27,13 @@ Geomatics Engineer with a specialization in GIS, Data Science, Remote Sensing, a
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)  
 
 ## 🚀 Key Projects  
-- **[Healthcare Coverage Optimization](link-to-repo)** – GIS-driven analysis to improve specialized healthcare service accessibility  
-- **[AI Resume Generator](link-to-repo)** – A Flask-based web application for automated resume optimization  
-- **[Healthcare Facility Location Optimization](link-to-repo)** – Machine learning integration with GIS for strategic facility placement  
+- **[Healthcare Coverage Optimization](https://javanmeshackportfolio.netlify.app/maximizing-healthcare-coverage)** – GIS-driven analysis to improve specialized healthcare service accessibility  
+- **[AI Resume Generator](https://javanmeshackportfolio.netlify.app/ai-resume-generator)** – A Flask-based web application for automated resume optimization  
+- **[Healthcare Facility Location Optimization](https://javanmeshackportfolio.netlify.app/optimized-healthcare-locations)** – Machine learning integration with GIS for strategic facility placement  
 
 ## 📝 Blog & Articles  
-- **[5 Ways GIS and Data Science Can Help Grow Your Business](link-to-blog)**  
-- **[GIS and Remote Sensing for Environmental Sustainability](link-to-blog)**  
+- **[5 Ways GIS and Data Science Can Help Grow Your Business](https://javanmeshackportfolio.netlify.app/geospatial-analytics-customer-behavior)**  
+- **[GIS and Remote Sensing for Environmental Sustainability](https://javanmeshackportfolio.netlify.app/gis-environment-sustainability)**  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javan-meshack)
